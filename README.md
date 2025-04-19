@@ -1,2 +1,2 @@
 # cubicCode
-Appreciation Certificate Generation System Dev
+Appreciation Certificate Generation System
